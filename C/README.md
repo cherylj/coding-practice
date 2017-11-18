@@ -32,4 +32,4 @@ $ ./hanoi 3
 Number of moves was: 7
 ```
 
-A number of the programs take an input file.  input.txt has the example format needed.
+A number of the programs take an input file.  `input.txt` has the example format needed.
