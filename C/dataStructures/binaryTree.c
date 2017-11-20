@@ -1,3 +1,5 @@
+// Author:  Cheryl Jennings
+
 /* This program will read input from a file and store it in a binary tree.
  * It will then remove the element specified as input from the tree and
  * print the resulting tree.

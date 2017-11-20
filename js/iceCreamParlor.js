@@ -1,4 +1,6 @@
+// Author:  Cheryl Jennings
 // From: https://www.hackerrank.com/challenges/icecream-parlor/problem
+
 function processData(input) {
     inputs = input.split('\n');
 

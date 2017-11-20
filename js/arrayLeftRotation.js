@@ -1,4 +1,6 @@
+// Author:  Cheryl Jennings
 // From: https://www.hackerrank.com/challenges/array-left-rotation/problem
+
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
