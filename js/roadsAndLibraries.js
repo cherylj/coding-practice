@@ -1,4 +1,5 @@
-// https://www.hackerrank.com/challenges/torque-and-development/problem
+// Author:  Cheryl Jennings
+// From: https://www.hackerrank.com/challenges/torque-and-development/problem
 
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
